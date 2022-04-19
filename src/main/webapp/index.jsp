@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Testing Jenkins Pipeline</h2>
+<h2>Testing Jenkins Pipeline and agent</h2>
 </body>
 </html>
